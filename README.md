@@ -21,8 +21,8 @@ Each algorithm is meticulously coded to ensure clarity and ease of understanding
 Feel free to fork this repository and submit pull requests. Any contributions, whether they're improvements to existing codes or new algorithms, are highly appreciated!
 
 ## Additional Resources:
-For more information, tutorials, and related content, visit [my personal website]([YOUR_WEBSITE_LINK_HERE](https://evolutionarygenius.com/)).
+For more information, tutorials, and related content, visit https://evolutionarygenius.com/
 
+happy Learning!
 ---
 
-**Note**: Please replace `YOUR_WEBSITE_LINK_HERE` with the actual link to your website.

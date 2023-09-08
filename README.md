@@ -1,6 +1,6 @@
 # Evolutionary Algorithms Repository
 
-Welcome to the Evolutionary Algorithms (EAs) repository! This is a comprehensive collection of implementations for some of the most popular EAs. Both Python and MATLAB codes are provided to cater to a wide audience.
+Welcome to the Evolutionary Algorithms (EAs) repository! This is a comprehensive collection of implementations for some of the most popular EAs. Both Python and MATLAB codes are provided for easy understanding.
 
 ## Algorithms Included:
 - **Artificial Bee Colony (ABC)**
